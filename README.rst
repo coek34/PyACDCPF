@@ -40,14 +40,7 @@ Support
 
 Questions and comments regarding PYACDCPF should be directed to:
 
-    roni.irnawan@google.com
-
-
-License & Copyright
-===================
-
-Copyright (C) 2012 Jef Beerten (KU Leuven)  
-Copyright (C) 2016 Roni Irnawan (Aalborg University)
+    roi@et.aau.dk
 
 
 Links
